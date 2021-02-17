@@ -1,0 +1,91 @@
+
+ body{
+   background-color: turquoise;
+ }
+
+
+ .red{
+  background-color: #e67676;
+  min-height: 400px;
+  margin-left: 10px;
+  margin-right: 10px;
+ }
+
+ h1{
+  text-align: center;
+  padding: 30px;
+  color: rgb(0, 60, 0);
+  text-decoration: underline;
+  margin-top: 20px;
+  -webkit-text-stroke: 1px black;
+} 
+ 
+ form{
+   text-align: center;
+   padding: 0px;
+ }
+
+  div{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+ }
+
+ li{
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+
+
+  #feladat{
+    background-color: thistle;
+    font-size: 24px;
+    border: 2px solid darkslateblue;
+    border-radius: 10px;
+  }
+
+  #hozzaad{
+    background-color: darkslateblue;
+    font-size: 24px;
+    border: 2px solid rgb(0, 0, 110);
+    color: rgb(165, 170, 243);
+    border-radius: 10px;
+    width: 260px;
+    margin-bottom: 10px;
+    font-weight: bold
+  }
+
+  .todoLista{
+    font-size: 25px;
+    color: rgb(0, 60, 0);
+    font-weight: bold;
+    display: unset;
+    text-align: center;
+    margin: 5px;
+  }
+
+  .kihuzva{
+    text-decoration: line-through
+  }
+
+  #ikon1{
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
